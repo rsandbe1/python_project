@@ -1,6 +1,11 @@
 # Python Project
 
+The datasets can be found here: https://sports-statistics.com/sports-data/nba-basketball-datasets-csv-files/
+There is a different .csv file for every NBA season.
+
 This project analyzes trends of 3-point shooting in the NBA and correlates these trends with team success.
+
+The presentation is available in both pdf and pptx formats.
 
 There are four directories for this project:
 
